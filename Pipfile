@@ -11,6 +11,8 @@ jupyter = "*"
 matplotlib = "*"
 numpy = "*"
 requests = "*"
+scikit-learn = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.7"
