@@ -13,6 +13,7 @@ numpy = "*"
 requests = "*"
 scikit-learn = "*"
 graphviz = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.7"
