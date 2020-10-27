@@ -14,6 +14,11 @@ requests = "*"
 scikit-learn = "*"
 graphviz = "*"
 plotly = "*"
+scikit-image = "*"
+scipy = "*"
+ipython = "*"
+sympy = "*"
+nose = "*"
 
 [requires]
 python_version = "3.7"
